@@ -1,0 +1,4 @@
+<?php
+define('ADMIN_USER', 'MORGANA');
+define('ADMIN_PASS_HASH', '$2y$10$FTondKQLzV99Y1U/GMi6/u78K/7QjsyUAoUI4zpsOuaKjjgiHaQeK');
+?>
